@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">Click here to visit home page</p>
+    <p><a href="HomePage.aspx" class="btn btn-primary btn-lg">click heer.</a></p>
+</div>
